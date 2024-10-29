@@ -34,7 +34,7 @@ header > h1{
 
 .badge{
     background: #ffffff;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 14px;
     padding: 2px 10px;
     font-family: sans-serif;
