@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #c99014;
+    background-color: #ffffff;
 }
 
 header{
@@ -14,7 +14,7 @@ header{
 }
 
 header > h1{
-    color:rgb(216, 167, 34);
+    color:rgb(71, 71, 71);
     text-align: center;
     font-family: sans-serif;
 }
@@ -33,7 +33,7 @@ header > h1{
 }
 
 .badge{
-    background: #6e0505;
+    background: #0c0fb4;
     color: white;
     font-size: 14px;
     padding: 2px 10px;
